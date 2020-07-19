@@ -1,3 +1,3 @@
 # Editorials One
 
-## A webapp for the Articles for The Hindu.
+## App live at : https://editorials-one.netlify.app/
