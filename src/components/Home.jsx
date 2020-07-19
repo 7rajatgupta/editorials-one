@@ -19,7 +19,7 @@ const Home = () => {
 
   return (
     <>
-      <h1 className="heading text-primary"> EDITORIAL SONE </h1>
+      <h1 className="heading text-primary"> EDITORIALS ONE </h1>
       <h4 className="heading text-muted mb-5">
         Latest Featured Hindu Articles for CAT Enthusiasts...
       </h4>
@@ -48,7 +48,7 @@ const Home = () => {
       <div className=" footer container mt-15">
         <p>
           {" "}
-          <span>&#169;</span> Editorial Sone
+          <span>&#169;</span> Editorials One
         </p>
       </div>
     </>

@@ -7,7 +7,7 @@ const About = () => {
       <div className="jumbotron mt-5 mb-5 description">
         <h3 className="mb-5">Hey There, I'm Shubham Roy</h3>
         <p>
-          Editorial Sone is a webapp designed for CAT Enthusiasts... <br /> It
+          Editorials One is a webapp designed for CAT Enthusiasts... <br /> It
           has all the latest featured articles from the best sources filtered
           and handpicked specially for the people who are preparing for CAT.
         </p>{" "}

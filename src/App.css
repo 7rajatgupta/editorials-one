@@ -87,7 +87,7 @@ li:hover {
   text-align: center;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 680px) {
   .article-logo {
     width: 4rem;
   }
