@@ -18,7 +18,6 @@ const Contact = () => {
         <h5>
           <a
             className="btn btn-success"
-            target="_blank"
             href="https://www.medium.com/the-motorcycle-journals/"
           >
             Blogs...

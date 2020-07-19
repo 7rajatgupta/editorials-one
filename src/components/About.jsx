@@ -27,8 +27,6 @@ const About = () => {
           {" "}
           <a
             className="mt-5 btn btn-primary"
-            target="_blank"
-            rel="noopener noreferrer"
             href="https://www.instagram.com/the_word_smith/"
           >
             My Instagram...
