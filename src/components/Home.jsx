@@ -21,7 +21,7 @@ const Home = () => {
     <>
       <h1 className="heading text-primary"> EDITORIALS ONE </h1>
       <h4 className="heading text-muted mb-5">
-        Latest Featured Hindu Articles for CAT Enthusiasts...
+        Latest Featured Articles for CAT Enthusiasts...
       </h4>
       {isLoading ? (
         <div className="container loading-container">

@@ -6,7 +6,7 @@ const Contact = () => {
       <h1 className="text-primary mt-5">Contact</h1>
       <div className="jumbotron mt-5 mb-5 description">
         <h2 className="mb-5">Shubham Roy</h2>
-        <h4>Email Address - neilkapoorcool@gmail.com</h4>{" "}
+        <h4>Email Address - shubhamroy4395@gmail.com</h4>{" "}
         <p>
           {" "}
           I'm currently staying in Bangalore, India. <br />
